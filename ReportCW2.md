@@ -32,3 +32,9 @@
 * isActive: true (аккаунт активен).
 * createdAt/updatedAt: дата создания/обновления аккаунта.
 * iat (issued at): время выдачи токена в формате Unix‑времени (1763111069 ≈ 14 ноября 2025, 08:07 UTC).
+ Хэш "password": "0192023a7bbd73250516f069df18b500". Атака на него даже с помощью онлайн крэкера позволяет узнать строку пароля - admin123:
+<img width="2556" height="1346" alt="image" src="https://github.com/user-attachments/assets/9455698b-b808-4d88-98ed-e283db1d4515" />
+
+Проверяем: 
+<img width="2880" height="1620" alt="image" src="https://github.com/user-attachments/assets/9d1b50e9-c027-4702-a4da-2df72c17cc5b" />
+<img width="2880" height="1620" alt="image" src="https://github.com/user-attachments/assets/17693b3b-5db2-40c7-bd9e-2b65653009db" />
